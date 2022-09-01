@@ -7,5 +7,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZWYxNTZmMDMtYzk2ZS00M2E4LTljZDQtY2QxMWUxO
 não lê, vou ter que inserir em um html mesmo
 <iframe title="Dashboard Clientes - Início" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWYxNTZmMDMtYzk2ZS00M2E4LTljZDQtY2QxMWUxOWE2NjZlIiwidCI6ImM0YzEwNjgzLWRkYzgtNDM5My1hN2U1LWMyZWUwZjQzM2Q2MSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-http://BarbaraDFonseca.github.io
+https://www.youtube.com/watch?v=A4-yOP6JDA8
+
+https://BarbaraDFonseca.github.io
 https://github.com/BarbaraDFonseca/Powerbilinks.github.io/blob/main/links.html
