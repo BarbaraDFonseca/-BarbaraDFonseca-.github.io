@@ -10,7 +10,7 @@ leu no navegador
 https://www.youtube.com/watch?v=A4-yOP6JDA8
 
 esse link faz abrir o readme no navegador
-http://barbarardfonseca.github.io
+http://barbarardfonseca.github.io/index.html
 
 vou ter que criar um repositório só com o html com os links e um outro repositório só com o readme pra abrir no navegador
 o repositório dos links deve ser nomeado com o nome do meu usuario.github.io para funcionar
